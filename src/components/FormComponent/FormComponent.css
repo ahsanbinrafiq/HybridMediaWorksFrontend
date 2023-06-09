@@ -1,0 +1,16 @@
+.form-main-div {
+    display: flex;
+    flex-direction: column;
+}
+.question-div {
+    display: flex;
+    flex-direction: column;
+}
+.Question-input-field {
+    border-color: black;
+    border-radius: 5px;
+    border-width: 1px;
+    height: 40px;
+    padding: 5px;
+    color: black;
+}

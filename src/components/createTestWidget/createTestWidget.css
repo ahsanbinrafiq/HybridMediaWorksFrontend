@@ -1,0 +1,34 @@
+.Create-modal-main {
+    width: 90vw;
+    max-width: 90vw;
+}
+.Modal-body-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Modal-box-one {
+    width: 49%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Modal-body-inner-space {
+    width: 2%;
+    height: 60vh;
+    border-right-width: 2px;
+    border-left-width: 2px;
+    background-color: darkgray;
+}
+
+.Modal-box-two {
+    width: 49%;
+    display: flex;
+    flex-direction: column;
+}
+
+
